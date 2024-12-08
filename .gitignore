@@ -1,2 +1,4 @@
 .venv/
 .env
+chromedriver.exe
+captcha_screenshot.png

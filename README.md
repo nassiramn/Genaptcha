@@ -61,6 +61,8 @@ python main.py
 
 The script will navigate to Amazon, capture the CAPTCHA image, extract the text using the Gemini model, and attempt to solve the CAPTCHA.
 
+Keep in mind: Amazon.com may not display the CAPTCHA on the first try. To see the program in action, you may need to re-run it multiple times.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
