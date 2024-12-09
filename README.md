@@ -2,6 +2,8 @@
 
 This project demonstrates a proof-of-concept for automating the solution of Amazon's CAPTCHA using Selenium for web automation and Google's Gemini 1.5 Pro model for image analysis and text extraction.
 
+[![Watch the demo video](https://cdn.loom.com/sessions/thumbnails/faebe82515b945b3b021e6f584bad130-ea51a90892df762d-full-play.gif)](https://www.loom.com/share/faebe82515b945b3b021e6f584bad130?sid=359a0ad5-c54a-43e6-adcf-b0ccee0cce0a)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
